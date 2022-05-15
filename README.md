@@ -1,0 +1,1 @@
+This project will be to make a recipe website for TheOdinProject. I hope to continue to learn more about HTML and CSS. 
